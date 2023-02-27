@@ -1,0 +1,98 @@
+/* This CSS file applies to all 3 Gutenberg html files */
+body {
+	background-color: moccasin;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: justify;
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+}
+h1, h2, h3, h4, h5 {
+	text-align: center;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1.5;
+	margin-top: .5em;
+	margin-bottom: .5em
+}
+h1 {
+	font-size: 200%;
+	margin-top: 0.6em;
+	margin-bottom: 0.6em;
+	letter-spacing: 0.12em;
+	word-spacing: 0.2em;
+	text-indent: 0
+}
+h2 {
+	font-size: 150%;
+	margin-top: 2em;
+	margin-bottom: 1em
+}
+h3 {
+	font-size: 130%;
+	margin-top: 2em
+}
+h4 {
+	font-size: 115%
+}
+h5 {
+	font-size: 100%
+}
+
+img {
+	border: 5 px;
+	color: brown;
+}
+figcaption {
+	text-align: center;
+}
+hr {
+	width: 80%;
+	margin-top: 2em;
+	margin-bottom: 2em
+}
+
+div.chapter {
+	page-break-before: always;
+	margin-top: 4em
+}
+
+p {
+	text-indent: 1em;
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
+	font-size: 17px;
+}
+p.poem {
+	text-indent: 0%;
+	margin-left: 10%;
+	font-size: 90%;
+	margin-top: 1em;
+	margin-bottom: 1em
+}
+p.noindent {
+	text-indent: 0%
+}
+p.center {
+	text-align: center;
+	text-indent: 0;
+	margin-top: 1em;
+	margin-bottom: 1em
+}
+p.right {
+    text-align: right;
+    margin-right: 10%;
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+
+a:link {
+	color: blue;
+	text-decoration: none
+}
+a:visited {
+	color: rebeccapurple;
+	text-decoration: none
+}
+a:hover {
+	color: palevioletred;
+}
