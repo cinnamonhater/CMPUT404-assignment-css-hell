@@ -1,0 +1,66 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Georgia';
+}
+
+.profile-pic{
+    text-align: center;
+}
+
+.pic{
+    border-radius: 2%;
+}
+
+.main-container{
+    display: flex;
+}
+
+.left{
+    padding-top: 3%;
+}
+
+.right{
+    padding-top: 2%;
+    padding-left: 5%;
+}
+
+.important{
+    text-align: center;
+    padding-left: 5%;
+}
+
+.importantstuff{
+    padding-left: 5%;
+}
+
+.padding{
+    width: 3%;
+}
+
+
+hr {
+    border-top: 1px solid lightgray;
+}
+
+.links{
+    text-align: center;
+}
+
+a:link, a:visited{
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  
+a:hover{
+    background-color: #0e5af1;
+}
+
+
+h1, h2, h3, h4, h5, p, ul{
+    font-weight: 300;
+}
