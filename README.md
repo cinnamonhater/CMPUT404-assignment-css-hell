@@ -2,8 +2,8 @@ Assignment: CSS Hell
 ====================
 
 Changes made to project gutenberg html files:
-I commented out the css in all 3 html files so that they would take on the characteristics I had chosen in the css file I created.
-I also had to center align the dedication for one of the books. I did not make any other changes to the html files themselves. 
+I commented out the pre-existingting css in all 3 html files so that they would take on the characteristics I had chosen in the css file I created.
+I also had to center align the dedication for one of the books. I did not make any other changes to the project gutenberg html files themselves. 
 
 You will skin 3 project gutenberg stories with custom CSS.
 
